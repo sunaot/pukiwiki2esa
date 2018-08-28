@@ -1,0 +1,6 @@
+/.esa/*
+!/.esa/credentials.sample
+/.config/*
+!/.config/file.sample
+/esa/*
+!/esa/.gitkeep
